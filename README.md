@@ -3,7 +3,7 @@ Takes a png image, detects the background, cuts it and slices the image saving s
 
 Project for http://camelotstore.ch/
 
-##Tool
+## Tools
 * Imagemagick: https://www.imagemagick.org/script/command-line-options.php
 * mktrans: https://github.com/hackerb9/mktrans
 
