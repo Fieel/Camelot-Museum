@@ -9,3 +9,9 @@ Tools: Imagemagick, mktrans
 1. Takes a scanned png image containing a deck of cards laid over a colored background
 2. Detects the background and removes it replacing the background-color with a transparent alpha channel.
 3. Cuts every single card and outputs a png file for every card in the deck.
+
+
+## Documentatio
+
+Imagemagick: https://www.imagemagick.org/script/command-line-options.php
+mktrans: https://github.com/hackerb9/mktrans
